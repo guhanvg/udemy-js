@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+   
+}
+
+.flex{
+    background-color: #012340;
+    height: max-content;
+}
+
+
+
+.flex h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    
+}
